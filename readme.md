@@ -29,4 +29,8 @@ The Example for the result is shown as below:
 
 Example 1
 
+![image](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%201.png)
+
 Example 2
+
+![image](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%202.png)
