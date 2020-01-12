@@ -23,6 +23,8 @@ At First, the map is like this :
 And you need find the shortest way from starting point (black point) to ending point (yellow point).
 
 The Example for the result is shown as below:
+![image text](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Map.png)
+
 
 Example 1
 
