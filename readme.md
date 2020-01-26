@@ -24,18 +24,22 @@ And you need find the shortest way from starting point (black point) to ending p
 
 The Example for the result is shown as below:
 
+
 Map is as below:
 
-![image text](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Map.png)
+
+![image](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Map.png)
 
 
 
 Example 1
 
-![image text](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%201.png)
+
+![image](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%201.png)
+
 
 Example 2
 
-![image text](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%202.png)
 
+![image](https://github.com/Jakejck/A-Algorithm/blob/master/Pic/Example%202.png)
 
