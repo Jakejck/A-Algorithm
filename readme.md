@@ -14,6 +14,8 @@ In this project，we will use A* search to implement a "Google-maps" style route
 
 You could start the file of **project_notebook_final.ipynb** to understand the whole logic.
 
+*** if you can't load ipynb file successfully, you can put the url address from gitbug on the website https://nbviewer.jupyter.org/ *** 
+
 And the core algorithm is written in the **core_code.py** . 
 
 
